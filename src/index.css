@@ -9,3 +9,12 @@ html {
   font-family: "Product Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
     sans-serif;
 }
+
+.rotate-green {
+  transform: rotate(-60deg);
+  filter: brightness(90%);
+}
+.rotate-green2 {
+  transform: rotate(80deg);
+  filter: brightness(90%);
+}

@@ -1,7 +1,7 @@
 const Header = () => {
   return (
-    <div className="flex items-center justify-between h-[50px] max-w-[1440px] mx-auto">
-      <ul className="flex items-center gap-8">
+    <div className="flex items-center justify-between h-[50px] max-w-[1440px] mx-auto ">
+      <ul className="flex items-center gap-16">
         <li className="text-sm font-medium">Home</li>
         <li className="text-sm font-medium">Product</li>
         <li className="text-sm font-medium">Insight</li>
